@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Peter Shellito Launches Site
+title: Just a page
 date: 2016-03-29
 ---
 
-Just started learning how to use github and [Jekyll](http://jekyllrb.com) to publish a blog here.
+This page has no content.
